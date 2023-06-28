@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://img.freepik.com/fotos-gratis/textura-de-parede-de-estuque-azul-marinho-de-relevo-decorativo-grunge-abstrato-fundo-colorido-aspero-de-angulo-amplo_1258-28311.jpg?w=2000);
+}
+.title{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.ul-1{
+    color: white;
+}
+.tabela{
+    color: white;
+    border: solid;
+}
