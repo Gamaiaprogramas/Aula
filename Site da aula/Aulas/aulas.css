@@ -34,6 +34,9 @@ ul a:hover{
     border-radius: 10px;
     position: absolute;
     border: solid 4px white;
+    position: relative;
+    margin-top: 6px;
+    margin-left: 3px;
     
 }
 .img-2806{
@@ -57,4 +60,12 @@ button:hover{
     filter: opacity(50%);
     border: solid 2px white;
     cursor: pointer;
+}
+.AreaSite{
+    position:relative;
+    background: linear-gradient(to top ,  rgb(2, 61, 2) , rgb(20, 20, 20));
+    height: 500px;
+    border:solid 2px white;
+    justify-content: space-around;
+    display: flex;
 }
